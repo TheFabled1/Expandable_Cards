@@ -1,6 +1,5 @@
 # Day 1: Project 1 - Expandable_Cards
 ###### Welcome to my Projects for the next 50 days!
-
 ###### https://thefabled1.github.io/Expandable_Cards/
 
 This project is from the Udemy course: https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+projects+in+50+days
